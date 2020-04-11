@@ -51,7 +51,7 @@ ul {
   top: 0;
   left: 0;
   width: 100%;
-  height: 85vh;
+  height: 90vh;
   background: -webkit-gradient(linear, right top, left top, from(#ffa57b), to(#ffc8ae));
   background: linear-gradient(to left, #ffa57b, #ffc8ae);
   z-index: -2;
@@ -116,7 +116,6 @@ section {
 .headline {
   position: absolute;
   top: 20%;
-  left: 0%;
   font-size: 100px;
   -webkit-transform: translate(-20%, -20%);
           transform: translate(-20%, -20%);
@@ -467,6 +466,8 @@ nav {
   .card-title {
     font-size: 2.25rem;
     text-align: center;
+    font-weight: 900;
+    padding: 10px 0;
   }
   .card-home {
     width: 80%;
@@ -543,6 +544,15 @@ nav {
     font-size: 1rem;
     padding: 6px 8px;
     width: 90px;
+  }
+  /* ============== PROJECTS MOBILE NAVIGATION ============== */
+  .order-2 {
+    -webkit-box-ordinal-group: initial;
+        -ms-flex-order: initial;
+            order: initial;
+  }
+  .img-left, .img-right {
+    border-radius: 10px 10px 0 0;
   }
   /* ============== ABOUT MOBILE NAVIGATION ============== */
   .about-hero {
