@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "react-router-dom"
 
 export default function HomeAbout() {
   return (
@@ -46,7 +47,7 @@ export default function HomeAbout() {
               I also enjoy photography. I took the photos on this page -
               photos of me were using a timer - and my photos can be
             viewed on <a href="https://www.instagram.com/drumminup/" target="_blank" rel="noopener noreferrer" className="body-link">my Instagram
-              account</a>. Read <a href="/about" className="body-link">more about me</a>.
+              account</a>. Read <Link to="/about" className="body-link">more about me</Link>.
           </p>
           </div>
         </div>

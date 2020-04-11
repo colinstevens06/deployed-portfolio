@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "react-router-dom"
 
 export default function HomeCards() {
   return (
@@ -8,24 +9,24 @@ export default function HomeCards() {
           <div className="col">
             <div className="card-deck">
               <div className="card card-home text-center nav-fade" data-aos="fade-left" data-url="projects.html">
-                <a href="/projects">
+                <Link to="/projects">
                   <i className="fas fa-laptop-code"></i>
                   <div className="card-title">Development Projects</div>
-                </a>
+                </Link>
               </div>
 
               <div className="card card-home text-center" data-aos="fade-right">
-                <a href="./PDFs/colin-stevens-resume.pdf" target="_blank">
+                <a href="./assets/PDFs/colin-stevens-resume.pdf" target="_blank">
                   <i className="far fa-keyboard"></i>
                   <div className="card-title">Resume</div>
                 </a>
               </div>
 
               <div className="card card-home text-center nav-fade" data-aos="fade-left" data-url="about.html">
-                <a href="/about">
+                <Link to="/about">
                   <i className="fas fa-user"></i>
                   <div className="card-title">About Me</div>
-                </a>
+                </Link>
               </div>
             </div>
           </div>

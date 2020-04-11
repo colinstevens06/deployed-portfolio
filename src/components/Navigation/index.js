@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "react-router-dom"
 
 export default function Navigation() {
   return (
@@ -18,10 +19,10 @@ export default function Navigation() {
           <div className="navbar-nav ml-auto">
             <a className="nav-btn"
               href="/">Home</a>
-            <a className="nav-btn"
-              href="/projects">Projects</a>
-            <a className="nav-btn"
-              href="/about">About</a>
+            <Link className="nav-btn"
+              to="/projects">Projects</Link>
+            <Link className="nav-btn"
+              to="/about">About</Link>
             <a className="nav-btn" href="./assets/PDFs/colin-stevens-resume.pdf" target="_blank">Resume</a>
           </div>
         </div>
