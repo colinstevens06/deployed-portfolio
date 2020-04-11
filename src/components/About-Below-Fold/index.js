@@ -23,7 +23,6 @@ export default function AboutBelowFold() {
             <p>
               I started a lawn-mowing business when I was in 6th grade. After a couple summers shaking down my neighbors, the money I saved went towards my drumset. I've been behind that kit ever since. I still play that same set today in my band, Lies From Granny.
       </p>
-
             <h2>Photographer</h2>
             <p>
               Photography is new to me. It's a challenge, but that's part of my attraction to it. I bought a Sony A6500 a couple years ago and have really enjoyed learning this new instrument. It helps me look at the world differently, but also gives me more reasons to be outside.

@@ -5,9 +5,11 @@ export default function Navigation() {
   return (
     <nav className="navbar navbar-expand-lg">
       <div className="container">
-        <div className="navbar-brand d-flex flex-row align-items-center">
-          <h1 className="logo">Colin Stevens</h1>
-        </div>
+        <a href="/">
+          <div className="navbar-brand d-flex flex-row align-items-center">
+            <h1 className="logo">Colin Stevens</h1>
+          </div>
+        </a>
 
         <button className="navbar-toggler custom-toggler" type="button" data-toggle="collapse"
           data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
