@@ -17,18 +17,14 @@ export default function HomeAbout() {
           </p>
 
             <p>
-              I am currently enrolled in a full stack development bootcamp
-              at Johns Hopkins University. So far in the bootcamp, I built
-              upon my strong foundation in HTML and CSS while learning the
-              basics of JavaScript and JQuery, focusing all my projects on
-              mobile-first designs.
+              I recently completed a full-stack development bootcamp
+              at Johns Hopkins University. Over six months, we learned the MERN stack: MongoDB, ExperessJS, ReactJS and NodeJS. We completed <Link to="/projects" className="body-link">new projects</Link> each week, incrementally building on concepts which all pointed to ReactJS and the MERN stack.
           </p>
 
             <p>
-              In addition to the bootcamp, I work full time managing content
+              While learning web development in the bootcamp, I worked full time managing content
               and search engine optimization on a local hospital’s
-              consumer-facing website. My time in this role has helped me
-              learn about crafting a smooth user experience and how to
+              consumer-facing website. My time in this role taught me about crafting a smooth user experience and how to
               develop content that ranks high in search engines. My degree
               and subsequent career in journalism, specifically working at a
               daily newspaper, shaped my ability to work in deadline-driven
@@ -45,7 +41,7 @@ export default function HomeAbout() {
           </p>
             <p>
               I also enjoy photography. I took the photos on this page -
-              photos of me were using a timer - and my photos can be
+              photos of me required a timer - and my photos can be
             viewed on <a href="https://www.instagram.com/drumminup/" target="_blank" rel="noopener noreferrer" className="body-link">my Instagram
               account</a>. Read <Link to="/about" className="body-link">more about me</Link>.
           </p>

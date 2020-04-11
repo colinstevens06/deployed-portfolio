@@ -10,40 +10,23 @@ export default function AboutBelowFold() {
           <div className="about-section">
             <h1>About Colin Stevens</h1>
             <p>
-              As long as I can remember, art and creativity have been
-              an important part of my life. I'm looking forward to
-              channelling that energy in my web development.
-      </p>
-            <p></p>
+              I'm goal driven and always try to do the best at whatever I'm doing, no matter if it's in the workplace or in my hobbies.
+            </p>
             <p>
-              I am goal driven and always try to do the best at
-              whatever I am doing, no matter if it's in the workplace
-              or in my hobbies.
-      </p>
+              Art, the outdoors and creativity have had an important place in my life as long as I can remember. I'm looking forward to working on projects that pair my coding abilities with my creative skills.
+            </p>
             <h2>Adventurer</h2>
             <p>
-              I have always loved being outside and traveling. This
-              past fall I took the trip of a lifetime when my sister
-              and I visited National Glacier Park in Montana. It
-              changed me forever. I can't wait for my next National
-              Park trip.
+              I have always loved being outside and traveling. This past fall, my sister and I visited National Glacier Park in Montana and its beauty blew my mind. There's something about the calm of the mountains and removing myself from the hustle and bustle of city life. I can't wait for my next National Park trip.
       </p>
             <h2>Musician</h2>
             <p>
-              I started a lawn-mowing business when I was in 6th
-              grade. I saved up and bought my drumset the summer
-              before 8th grade. I never looked back. Music is a
-        <em>huge</em> part of my life. And I still play that
-        same drumset today in my band, Lies From Granny.
+              I started a lawn-mowing business when I was in 6th grade. After a couple summers shaking down my neighbors, the money I saved went towards my drumset. I've been behind that kit ever since. I still play that same set today in my band, Lies From Granny.
       </p>
 
             <h2>Photographer</h2>
             <p>
-              This is new to me. It's a challenge, but that's part of
-              the fun. I bought a Sony A6500 a couple years ago and
-              have really enjoyed learning this new craft. It's a new
-              artistic outlet, but also a way for me to spend time
-              outside.
+              Photography is new to me. It's a challenge, but that's part of my attraction to it. I bought a Sony A6500 a couple years ago and have really enjoyed learning this new instrument. It helps me look at the world differently, but also gives me more reasons to be outside.
       </p>
           </div>
         </div>
