@@ -13,7 +13,6 @@ function Projects() {
   return (
     <div className="fade-in" style={{ display: 0 }}>
       <div className="grey-gradient">
-        <Navigation />
 
         <ProjectsCardsWrapper />
 

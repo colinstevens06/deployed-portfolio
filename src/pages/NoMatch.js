@@ -6,7 +6,6 @@ import Navigation from "../components/Navigation"
 function NoMatch() {
   return (
     <div>
-      <Navigation />
 
       <h1>404 Page Not Found</h1>
       <h1>
