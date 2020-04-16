@@ -206,6 +206,13 @@ section {
   padding: 24px;
 }
 
+.page {
+  position: absolute;
+  top: 5vh;
+  left: 0;
+  right: 0;
+}
+
 /* ========================== ABOUT PAGE ========================== */
 .about-hero img {
   width: 100%;
@@ -379,6 +386,7 @@ nav {
   background: -webkit-gradient(linear, right top, left top, from(#fffafa), to(#ffffff));
   background: linear-gradient(to left, #fffafa, #ffffff);
   opacity: 0.8;
+  z-index: 98;
 }
 
 .navbar {
@@ -435,6 +443,26 @@ nav {
 
 .custom-toggler .navbar-toggler {
   border-color: black;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  -webkit-transition: opacity 800ms linear 400ms;
+  transition: opacity 800ms linear 400ms;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  -webkit-transition: opacity 400ms linear;
+  transition: opacity 400ms linear;
 }
 
 /* ========================== MEDIA QUERIES ========================== */
