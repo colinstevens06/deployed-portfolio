@@ -3,7 +3,6 @@ import React from "react"
 
 // IMPORT COMPONENTS
 import ProjectsCardsWrapper from "../components/Projects-Cards-Wrapper"
-import Navigation from "../components/Navigation"
 
 
 
