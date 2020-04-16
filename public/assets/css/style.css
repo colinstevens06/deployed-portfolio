@@ -206,6 +206,13 @@ section {
   padding: 24px;
 }
 
+.page {
+  position: absolute;
+  top: 5vh;
+  left: 0;
+  right: 0;
+}
+
 /* ========================== ABOUT PAGE ========================== */
 .about-hero img {
   width: 100%;
@@ -379,6 +386,7 @@ nav {
   background: -webkit-gradient(linear, right top, left top, from(#fffafa), to(#ffffff));
   background: linear-gradient(to left, #fffafa, #ffffff);
   opacity: 0.8;
+  z-index: 98;
 }
 
 .navbar {
@@ -439,18 +447,12 @@ nav {
 
 .fade-enter {
   opacity: 0;
-  -webkit-transform: scale(0.9);
-          transform: scale(0.9);
 }
 
 .fade-enter-active {
   opacity: 1;
-  -webkit-transform: translateX(0);
-          transform: translateX(0);
-  -webkit-transition: opacity 300ms, -webkit-transform 300ms;
-  transition: opacity 300ms, -webkit-transform 300ms;
-  transition: opacity 300ms, transform 300ms;
-  transition: opacity 300ms, transform 300ms, -webkit-transform 300ms;
+  -webkit-transition: opacity 800ms linear 400ms;
+  transition: opacity 800ms linear 400ms;
 }
 
 .fade-exit {
@@ -459,12 +461,8 @@ nav {
 
 .fade-exit-active {
   opacity: 0;
-  -webkit-transform: scale(0.9);
-          transform: scale(0.9);
-  -webkit-transition: opacity 300ms, -webkit-transform 300ms;
-  transition: opacity 300ms, -webkit-transform 300ms;
-  transition: opacity 300ms, transform 300ms;
-  transition: opacity 300ms, transform 300ms, -webkit-transform 300ms;
+  -webkit-transition: opacity 400ms linear;
+  transition: opacity 400ms linear;
 }
 
 /* ========================== MEDIA QUERIES ========================== */

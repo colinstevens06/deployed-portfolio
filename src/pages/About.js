@@ -10,7 +10,7 @@ function About() {
 
 
   return (
-    <div className="fade-in" style={{ display: 0 }}>
+    <div className="fade-in page" style={{ display: 0 }}>
       <div className="forest-gradient pb-3">
 
         <AboutHero />

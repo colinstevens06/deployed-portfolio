@@ -178,6 +178,13 @@ section {
   padding: 24px;
 }
 
+.page {
+  position: absolute;
+  top: 5vh;
+  left: 0;
+  right: 0;
+}
+
 @import "./about";
 @import "./projects";
 @import "./nav";
