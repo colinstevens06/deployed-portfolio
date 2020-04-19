@@ -6,7 +6,6 @@ import { useEffect } from "react"
 // IMPORT COMPONENTS
 import AboutHero from "../components/About-Hero"
 import AboutBelowFold from "../components/About-Below-Fold"
-import Navigation from "../components/Navigation"
 
 function About() {
   useEffect(() => {

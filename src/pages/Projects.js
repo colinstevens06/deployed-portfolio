@@ -1,12 +1,8 @@
 import React from "react"
 import { useEffect } from "react"
-// import { Link } from "react-router-dom"
 
 // IMPORT COMPONENTS
 import ProjectsCardsWrapper from "../components/Projects-Cards-Wrapper"
-
-
-
 
 function Projects() {
 
