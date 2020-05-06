@@ -1,68 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ReactJS Portfolio
+I developed my portfolio using ReactJS. I am a full-stack developer based out of Baltimore. Interested in working with me? Hit me up!
 
-## Available Scripts
+## ReactJS
+I used React Components for the whole layout.
 
-In the project directory, you can run:
+I utilize ES6 mapping on the projects page, pulling data from a  JSON file and using a React Component to dynamically generate a card for each project.
 
-### `npm start`
+## Home Page
+This was a lot of fun to do. I wanted to use animations on my homepage. I found a YouTube channel - Dev Ed - and used a lot of his methods in my homepage. I used my own image for the hero image.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I wanted a strong hero image that spoke to Baltimore. I also wanted to keep the design simple and clean. I think the landing section does exactly what I want it to do, catching your eye with an iconic Baltimore image and an animation.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Lower on the page, I use a simple icon-based three-pack, linking to relevant content. I like my animation that makes it fly in from the side.
 
-### `npm test`
+Then my professional bio at the bottom, I like how it flies in from the bottom, giving it a subtle effect.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+One thing I would upgrade in the future: I want that animation on the home page to only run once (maybe once per day?), then I want it to revert to standard transition between pages.
 
-### `npm run build`
+## Projects
+I use ES6 mapping on a JSON file to produce the cards dynamically.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## About
+Another design case where I wanted a large hero image doing the talking. I took this image of myself while on a hike at the beggining of summer. It's near Hagerstown Maryland. It was about 1.5-mile hike here, I had never been before, but I know it was a great lookout. Taking selfies w/ my Sony Alpha6500 is hard - I can't use autofocus because I'm still behind the camera during focus. Then I press and timer and get in position. This photo was pretty much the most in focus - and the last time I took a portrait-style photo of myself - so I used this one.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+I think the overlay on the image could be better. Not in love with it and will look up videos on how to perfect this.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I also think the layout of the body copy could be improved.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+I am happy with the simplicity and the way I used a different background color and still maintained readability with my background color and font color.
