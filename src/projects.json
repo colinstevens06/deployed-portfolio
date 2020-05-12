@@ -16,6 +16,21 @@
   },
   {
     "id": 12,
+    "name": "Lies From Granny",
+    "text": "This website is a marketing tool for Lies From Granny, my band. It's target audiences are fans and potential venues.",
+    "features": [
+      "ReactJS components and routing",
+      "SaSS styling",
+      "Custom design"
+    ],
+    "siteURL": "https://liesfromgranny.com/",
+    "github": "https://github.com/colinstevens06/Lies-From-Granny",
+    "img": "./assets/images/projects/lies-from-granny-band-website.jpg",
+    "order": "col-md-6 order-2",
+    "fade": "fade-right"
+  },
+  {
+    "id": 11,
     "name": "ReactJS Book Search",
     "text": "This was my first MERN Stack project. I started with a blank slate and created this project from the ground up. The user can query the Google Books API, and save books to a list. User can also delete from the list.",
     "features": [
@@ -28,11 +43,11 @@
     "siteURL": " https://fast-dawn-85006.herokuapp.com/",
     "github": "https://github.com/colinstevens06/book-search",
     "img": "./assets/images/projects/book-search.jpg",
-    "order": "col-md-6 order-2",
-    "fade": "fade-right"
+    "order": "col-md-6",
+    "fade": "fade-left"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "ReactJS Employee Directory",
     "text": "Without any starter code, I created a sortable, filterable employee directory using ReactJS",
     "features": [
@@ -44,11 +59,11 @@
     "siteURL": "https://dry-beach-94354.herokuapp.com/",
     "github": "https://github.com/colinstevens06/16-employee-directory",
     "img": "./assets/images/projects/employee-directory.jpg",
-    "order": "col-md-6",
-    "fade": "fade-left"
+    "order": "col-md-6 order-2",
+    "fade": "fade-right"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "ReactJS Calculator",
     "text": "This was my first React.JS project. I built the calculator dynamically and adjusted to new React syntax.",
     "features": [
@@ -59,21 +74,6 @@
     "siteURL": "https://guarded-sea-42388.herokuapp.com/",
     "github": "https://github.com/colinstevens06/calculator",
     "img": "./assets/images/projects/calculator-app.jpg",
-    "order": "col-md-6 order-2",
-    "fade": "fade-right"
-  },
-  {
-    "id": 9,
-    "name": "Lies From Granny",
-    "text": "This website is a marketing tool for Lies From Granny, my band. It's target audiences are fans and potential venues.",
-    "features": [
-      "SaSS styling",
-      "Modern design",
-      "Custom art"
-    ],
-    "siteURL": "https://liesfromgranny.com/",
-    "github": "https://github.com/colinstevens06/Lies-From-Granny",
-    "img": "./assets/images/projects/lies-from-granny-band-website.jpg",
     "order": "col-md-6",
     "fade": "fade-left"
   },
