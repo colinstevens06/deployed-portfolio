@@ -1,5 +1,20 @@
 [
   {
+    "id": 14,
+    "name": "Baltimore Happy Hour App",
+    "text": "This is a MERN project I am continuously working on. I designed the site in Adobe XD for desktop and mobile using Material Design concepts. It is hosted on heroku. I also collected the data for the API.",
+    "features": [
+      "MERN Website",
+      "React Hooks",
+      "React Routing"
+    ],
+    "siteURL": "https://www.baltimorehappyhour.com",
+    "github": "https://github.com/colinstevens06",
+    "img": "./assets/images/projects/baltimore-happy-hour.png",
+    "order": "col-md-6 order-2",
+    "fade": "fade-right"
+  },
+  {
     "id": 13,
     "name": "BMore Wings App",
     "text": "I took the lead for our team in my Bootcamp's final project. Using my idea, I wrote front- and back-end code for the landing page and individual restaurant pages. I placed a focus on mobile design, scalability and MERN",
