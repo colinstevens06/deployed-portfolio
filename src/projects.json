@@ -1,5 +1,20 @@
 [
   {
+    "id": 15,
+    "name": "Life Organizer",
+    "text": "This is a MERN project I created so that I could learn about authentication. After research, I chose Firebase to handle my authentication, then I designed my DB so that users can access their notes while logged in.",
+    "features": [
+      "MERN Website",
+      "Firebase",
+      "Adobe XD"
+    ],
+    "siteURL": "https://life-organizer-by-colin.herokuapp.com/",
+    "github": "https://github.com/colinstevens06/Life-Organizer",
+    "img": "./assets/images/projects/life-organizer.png",
+    "order": "col-md-6 ",
+    "fade": "fade-left"
+  },
+  {
     "id": 14,
     "name": "Baltimore Happy Hour App",
     "text": "This is a MERN project I am continuously working on. I designed the site in Adobe XD for desktop and mobile using Material Design concepts. It is hosted on heroku. I also collected the data for the API.",
